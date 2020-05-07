@@ -1,0 +1,579 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.social{
+    background-color: #316DC3;
+    padding: 8px;
+    position: relative;
+    height: 35px;
+}
+.social-links{
+    position: relative;
+    width: 33%;
+    height: 10px;
+    display: inline-block;
+}
+.firstP{
+    position: relative;
+    width: 33%;
+    height: 10px;
+    display: inline-block;
+}
+.social-p{
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    position: relative;
+    top: 5px;
+}
+.fristBtns{
+    position: relative;
+    width: 33%;
+    height: 10px;
+    display: inline-block;
+
+}
+.social-btn{
+    position: relative;
+    top: 5px;
+    margin-left: 5px;
+    padding: 4px;
+    background-color: #F7F8FA;
+    color: grey;
+    border: 1px solid gray;
+    width: 100px;
+
+}
+#social-one,#social-two,#social-three,#social-fourth,#social-fifth{
+    text-decoration: none;
+    color: white;
+    margin-left: 32px;
+    text-align: left;
+    float: right;
+    position: relative;
+    top: 0px;
+}
+.hone{
+    position: relative;
+    width: 50%;
+    height: 60px;
+    display: inline-block;
+}
+.logo{
+    position: relative;
+    left: 44%;
+}
+.htwo{
+    position: relative;
+    width: 50%;
+    height: 60px;
+    display: inline-block;
+    float: right;
+}
+.nav{
+    text-decoration: none;
+    color: black;
+    margin-left: 28px;
+    position: relative;
+    top: 15px;
+}
+.nav:hover{
+    position: relative;
+    background-color: #316DC3;
+    padding: 8px;
+    border-radius: 20px;
+    color: white;
+}
+#nav-one{
+    background-color: #316DC3;
+    padding: 8px;
+    border-radius: 20px;
+}
+.main-img{
+    position: relative;
+    width: 100%;
+}
+.mid{
+    background-color: #316DC3;
+    text-align: center;
+    padding: 6px;
+    width: 60%;
+    position: relative;
+    left: 18%;
+    color: white
+
+}
+.intro{
+    display: inline-block;
+    color: #316DC3;
+    font-weight: 500;
+}
+.duction{
+    display: inline-block;
+    color: #427900;
+    font-weight: 500;
+}
+.WW{
+    display: inline-block;
+    color: #316DC3;
+    font-weight: 500;
+}
+.AD{
+    display: inline-block;
+    color: #427900;
+    font-weight: 500;
+}
+.main-p{
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+.middd{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 48%;
+    top: 70px;
+    height: 50px;
+}
+.fhr{
+    border: 1.5px solid #427900;
+    width: 50px;
+    position: relative;
+    left: 45%;
+    top: 115px;
+}
+.shr{
+    border: 1.5px solid #427900;
+    width: 50px;
+    position: relative;
+    left: 51%;
+    top: 57px;
+}
+.main-text-div{
+    width: 50%;
+    position: relative;
+    left: 24%;
+    top: 50px;
+}
+.main-text{
+    padding: 60px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: grey;
+
+}
+.main-icons{
+    background-color: #2655E8;
+    height: 250px;
+    padding: 60px;
+}
+.iconOne,.iconTwo,.iconThree,.iconFourth{
+    position: relative;
+    background-color: #2655E8;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    left: 8%;
+    margin-left: 60px;
+}
+#foodlogo{
+    position: relative;
+    left: 40%;
+    top: 50px;
+}
+.numOne{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.iconOneWhite{
+    text-align: center;
+    color: white;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+}
+.iconOneGreen{
+    text-align: center;
+    color: #00FF00;
+    display: inline-block;
+    font-size: 22px;
+    position: relative;
+    top: 60px;
+}
+#sp{
+    position: relative;
+    left: 10%;
+}
+#spt{
+    position: relative;
+    left: 10% ;
+}
+.shOne{
+    position: relative;
+    top: 100px;
+    height: 250px;
+    padding: 60px;
+}
+.shTwo{
+    position: relative;
+    top: -50px;
+    height: 250px;
+    padding: 60px;
+}
+.shOneOO,.shTwoT,.shThreeT{
+    position: relative;
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 20px;
+    left: 15%;
+    box-shadow: 0 8px 20px 0 rgba(0,0,0,0.16)
+}
+.onlinesadqaimage{
+    position: relative;
+    left: 40%;
+    top: 30px;
+}
+.onlinesadqatext{
+    position: relative;
+    text-align: center;
+    top: 40px;
+    color: #316DC3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.secondLast{
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+#sixty{
+    position: relative;
+    width:60%;
+    height:500px;
+    display: inline-block;
+}
+#fourty{
+    position: relative;
+    
+    width:40%;
+    height:500px;
+    float: right;
+}
+.MAUP{
+    font-size: 25px;
+    color: #2655E8;
+    font-weight: 600;
+    position: relative;
+    left: 30%;
+}
+.MAUPhr{
+    border: 1px solid #427900;
+    width: 50px;
+    position: relative;
+    top: 10px;
+    left: 30%;
+}
+.MAUPP{
+    font-size: 25px;
+    color: #2655E8;
+    font-weight: 600;
+    position: relative;
+}
+.MAUPhrr{
+    border: 1px solid #427900;
+    width: 50px;
+    position: relative;
+    top: 10px;
+}
+.h{
+    position: relative;
+    border: 1px solid rgb(228, 227, 227);
+    background-color:#F7F8FA;
+    height: 70px;
+    width: 350px;
+    left: 30%;
+    top: 50px;
+}
+.himg{
+    position: relative;
+    top: 10px;
+    left: 5%;
+}
+.hp{
+    display: inline-block;
+    color: #2655E8;
+    font-weight: 600;
+    left: 10%;
+    font-size: 20px;
+    position: relative;
+}
+#hT{
+    position: relative;
+    top: 70px;
+}
+#htt{
+    position: relative;
+    left: 65%;
+    top: -94px;
+}
+#httT{
+    position: relative;
+    left: 65%;
+    top: -75px;
+}
+.fourtyp{
+    position: relative;
+    width: 40%;
+    top: 30px;
+
+}
+#gallery{
+    position: relative;
+    left: 19%;
+    top: 100px;
+    width: 70%;
+}
+.galleryli{
+    display: inline-block;
+}
+.bottom{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    top: 300px;
+    background-color: #25272E;
+}
+.bottomOne{
+    position: relative;
+    width: 50%;
+    height: 100%;
+    background-color: #316DC3;
+}
+.bottomTwo{
+    position: relative;
+    width: 30%;
+    height: 100%;
+    background-color: rgb(49, 195, 56);
+    float: right;
+}
+.bottomOneO{
+    color: #BBBBBB;
+}
+.content{
+    width: 50%;
+    position: relative;
+    left: 20%;
+    top: 50px;
+}
+.CWU{
+    position: relative;
+    margin-left: 950px;
+    top: -235px;
+    color: #BBBBBB;
+}
+.CWUhr{
+    position: relative;
+    border: 1px solid #427900;
+    width: 100px;
+    left: 50% ;
+    top: -220px;
+}
+.socailLinkss{
+    position: relative;
+}
+#social-onee,#social-twoo,#social-threee,#social-fourthh,#social-fifthh{
+    text-decoration: none;
+    color: white;
+    margin-left: 52px;
+    float: right;
+    position: relative;
+    top: -200px;
+    left: -29%;
+    border: 1px solid #2655E8;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    padding: 8px;
+    text-align: center;
+    background-color: #2655E8;
+}
+.copyright{
+    position: relative;
+    width: 98.9%;
+    background-color: #316DD9;
+    padding: 10px;
+    top: 300px;
+}
+.copy{
+    position: relative;
+    color: white;
+    margin-left: 19% ;
+}
+@media screen and (max-width: 320px){
+    .CWU{
+        margin-left: 50px;
+    }
+    .social{
+        width: 143.5%;
+        height: 230px;
+    }
+    .social-links{
+        position: relative;
+        width: 100%;
+        top: 18px;
+        display: block;
+    }
+    #social-one,#social-two,#social-three,#social-fourth,#social-fifth{
+        margin-left: 30px;
+        top: 5px;
+        font-size: 22px;
+        float: right;
+        left: -130px;
+    }
+    .firstP{
+        width: 100%;
+        display: block;
+    }
+    .social-p{
+        text-align: center;
+        color: white;
+        letter-spacing: 1px;
+        position: absolute;
+        top: 60px;
+        font-size: 25px;
+    }
+    .fristBtns{
+        position: absolute;
+        width: 90%;
+        top: 50px;
+        display: block;
+        left: 25px;
+    
+    }
+    .social-btn{
+        position: relative;
+        top: 110px;
+        margin-left: 4px;
+        padding: 15px;
+        background-color: #F7F8FA;
+        color: grey;
+        border: 1px solid gray;
+        width: 133px;
+        font-size: 16px;
+    
+    }
+    .htwo{
+        display: none;
+    }
+    .hone{
+        position: relative;
+        width: 100%;
+        height: 100px;
+        display: inline-block;
+    }
+    .logo{
+        position: relative;
+        left: 4%;
+        height: 80px;
+    }
+    .main-img{
+        position: relative;
+        width: 149%;
+    }
+    #mobileimg{
+        position: relative;
+        height: 200px;
+    }
+    .mid{
+       display: none;
+    }
+    .main-p{
+        position: relative;
+        text-align: center;
+        top: 30px;
+        left: 25%;
+    }
+    .middd{
+        display: inline-block;
+        text-align: center;
+        position: relative;
+        left: 63%;
+        top: 30px;
+        height: 50px;
+    }
+    .fhr{
+        top: 75px;
+    }
+    .shr{
+        border: 1.5px solid #427900;
+        width: 50px;
+        position: relative;
+        left: 80%;
+        top: 17px;
+    }
+    .main-text-div{
+        width: 140%;
+        position: relative;
+        top: 50px;
+        left: 20px;
+    }
+    .main-text{
+        padding: 1px;
+        font-size: 22px;
+        letter-spacing: 1px;
+        color: grey;
+    
+    }
+    .main-icons{
+        position: relative;
+        height: 1300px;
+        padding: 1px;
+        width: 149%;
+        top: 50px;
+    }
+    .WW{
+        position: relative;
+        left: -100px;
+        top: 41px;
+    }
+    .AD{
+        position: relative;
+        left: 75px;
+        top: 5px;
+    }
+    .shOne{
+        position: relative;
+        top: 50px;
+        height: 1000px;
+        padding: 5px;
+        left: -15px;
+    }
+    .shTwo{
+        position: relative;
+        height: 300px;
+        padding: 5px;
+        left: -15px;
+        top: -359px;
+    }
+    #sixty{
+        position: relative;
+        width:100%;
+        height:200px;
+    }
+    .MAUP{
+        left: 3%;
+    }
+    .MAUPhr{
+        left: 3%;
+    }
+
+}
